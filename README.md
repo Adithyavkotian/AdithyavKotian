@@ -18,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyavkotian&show_icons=true&theme=radical&bg_color=000000&locale=en&layout=compact" alt="adithyavkotian" /></p>
 
-<p><img align="left" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavkotian&" alt="adithyavkotian" /></p>
